@@ -1,0 +1,301 @@
+{
+  "provinces": [
+    {
+      "province_fa": "آذربایجان شرقی",
+      "province_en": "East Azerbaijan",
+      "cities": [
+        { "city_fa": "تبریز", "city_en": "Tabriz", "code": "15" },
+        { "city_fa": "مراغه", "city_en": "Maragheh", "code": "25" },
+        { "city_fa": "مرند", "city_en": "Marand", "code": "35" },
+        { "city_fa": "میانه", "city_en": "Mianeh", "code": "45" }
+      ]
+    },
+    {
+      "province_fa": "آذربایجان غربی",
+      "province_en": "West Azerbaijan",
+      "cities": [
+        { "city_fa": "ارومیه", "city_en": "Urmia", "code": "17" },
+        { "city_fa": "خوی", "city_en": "Khoy", "code": "27" },
+        { "city_fa": "میاندوآب", "city_en": "Miandoab", "code": "37" },
+        { "city_fa": "مهاباد", "city_en": "Mahabad", "code": "47" }
+      ]
+    },
+    {
+      "province_fa": "اردبیل",
+      "province_en": "Ardabil",
+      "cities": [
+        { "city_fa": "اردبیل", "city_en": "Ardabil", "code": "91" },
+        { "city_fa": "پارس‌آباد", "city_en": "Parsabad", "code": "92" }
+      ]
+    },
+    {
+      "province_fa": "اصفهان",
+      "province_en": "Isfahan",
+      "cities": [
+        { "city_fa": "اصفهان", "city_en": "Isfahan", "code": "13" },
+        { "city_fa": "کاشان", "city_en": "Kashan", "code": "23" },
+        { "city_fa": "نجف‌آباد", "city_en": "Najafabad", "code": "43" },
+        { "city_fa": "شهرضا", "city_en": "Shahreza", "code": "53" }
+      ]
+    },
+    {
+      "province_fa": "البرز",
+      "province_en": "Alborz",
+      "cities": [
+        { "city_fa": "کرج", "city_en": "Karaj", "code": "68" },
+        { "city_fa": "نظرآباد", "city_en": "Nazarabad", "code": "78" }
+      ]
+    },
+    {
+      "province_fa": "ایلام",
+      "province_en": "Ilam",
+      "cities": [
+        { "city_fa": "ایلام", "city_en": "Ilam", "code": "98" }
+      ]
+    },
+    {
+      "province_fa": "بوشهر",
+      "province_en": "Bushehr",
+      "cities": [
+        { "city_fa": "بوشهر", "city_en": "Bushehr", "code": "48" },
+        { "city_fa": "دشتستان", "city_en": "Dashtestan", "code": "58" }
+      ]
+    },
+    {
+      "province_fa": "تهران",
+      "province_en": "Tehran",
+      "cities": [
+        { "city_fa": "تهران", "city_en": "Tehran", "code": "11, 22, 33, 44, 55, 66, 77, 88, 99" },
+        { "city_fa": "شهریار", "city_en": "Shahriar", "code": "78" },
+        { "city_fa": "اسلام‌شهر", "city_en": "Eslamshahr", "code": "78" }
+      ]
+    },
+    {
+      "province_fa": "چهارمحال و بختیاری",
+      "province_en": "Chaharmahal and Bakhtiari",
+      "cities": [
+        { "city_fa": "شهرکرد", "city_en": "Shahr-e Kord", "code": "71" },
+        { "city_fa": "بروجن", "city_en": "Borujen", "code": "81" }
+      ]
+    },
+    {
+      "province_fa": "خراسان جنوبی",
+      "province_en": "South Khorasan",
+      "cities": [
+        { "city_fa": "بیرجند", "city_en": "Birjand", "code": "52" }
+      ]
+    },
+    {
+      "province_fa": "خراسان رضوی",
+      "province_en": "Razavi Khorasan",
+      "cities": [
+        { "city_fa": "مشهد", "city_en": "Mashhad", "code": "12" },
+        { "city_fa": "نیشابور", "city_en": "Nishapur", "code": "32" },
+        { "city_fa": "سبزوار", "city_en": "Sabzevar", "code": "42" },
+        { "city_fa": "تربت حیدریه", "city_en": "Torbat-e Heydarieh", "code": "52" }
+      ]
+    },
+    {
+      "province_fa": "خراسان شمالی",
+      "province_en": "North Khorasan",
+      "cities": [
+        { "city_fa": "بجنورد", "city_en": "Bojnord", "code": "26" },
+        { "city_fa": "شیروان", "city_en": "Shirvan", "code": "74" }
+      ]
+    },
+    {
+      "province_fa": "خوزستان",
+      "province_en": "Khuzestan",
+      "cities": [
+        { "city_fa": "اهواز", "city_en": "Ahvaz", "code": "14" },
+        { "city_fa": "آبادان", "city_en": "Abadan", "code": "24" },
+        { "city_fa": "دزفول", "city_en": "Dezful", "code": "34" }
+      ]
+    },
+    {
+      "province_fa": "زنجان",
+      "province_en": "Zanjan",
+      "cities": [
+        { "city_fa": "زنجان", "city_en": "Zanjan", "code": "87" },
+        { "city_fa": "ابهر", "city_en": "Abhar", "code": "97" }
+      ]
+    },
+    {
+      "province_fa": "سمنان",
+      "province_en": "Semnan",
+      "cities": [
+        { "city_fa": "سمنان", "city_en": "Semnan", "code": "86" },
+        { "city_fa": "شاهرود", "city_en": "Shahrud", "code": "96" }
+      ]
+    },
+    {
+      "province_fa": "سیستان و بلوچستان",
+      "province_en": "Sistan and Baluchestan",
+      "cities": [
+        { "city_fa": "زاهدان", "city_en": "Zahedan", "code": "85" },
+        { "city_fa": "زابل", "city_en": "Zabol", "code": "95" }
+      ]
+    },
+    {
+      "province_fa": "فارس",
+      "province_en": "Fars",
+      "cities": [
+        { "city_fa": "شیراز", "city_en": "Shiraz", "code": "63" },
+        { "city_fa": "کازرون", "city_en": "Kazerun", "code": "73" },
+        { "city_fa": "لارستان", "city_en": "Larestan", "code": "83" },
+        { "city_fa": "جهرم", "city_en": "Jahrom", "code": "93" }
+      ]
+    },
+    {
+      "province_fa": "قزوین",
+      "province_en": "Qazvin",
+      "cities": [
+        { "city_fa": "قزوین", "city_en": "Qazvin", "code": "79" },
+        { "city_fa": "تاکستان", "city_en": "Takestan", "code": "89" }
+      ]
+    },
+    {
+      "province_fa": "قم",
+      "province_en": "Qom",
+      "cities": [
+        { "city_fa": "قم", "city_en": "Qom", "code": "16" }
+      ]
+    },
+    {
+      "province_fa": "کردستان",
+      "province_en": "Kurdistan",
+      "cities": [
+        { "city_fa": "سنندج", "city_en": "Sanandaj", "code": "51" },
+        { "city_fa": "سقز", "city_en": "Saqqez", "code": "61" }
+      ]
+    },
+    {
+      "province_fa": "کرمان",
+      "province_en": "Kerman",
+      "cities": [
+        { "city_fa": "کرمان", "city_en": "Kerman", "code": "45" },
+        { "city_fa": "رفسنجان", "city_en": "Rafsanjan", "code": "65" },
+        { "city_fa": "سیرجان", "city_en": "Sistan", "code": "75" }
+      ]
+    },
+    {
+      "province_fa": "کرمانشاه",
+      "province_en": "Kermanshah",
+      "cities": [
+        { "city_fa": "کرمانشاه", "city_en": "Kermanshah", "code": "19" },
+        { "city_fa": "اسلام‌آباد غرب", "city_en": "Eslamabad-e Gharb", "code": "29" },
+        { "city_fa": "گیلان‌غرب", "city_en": "Gilan-e Gharb", "code": "39" }
+      ]
+    },
+    {
+      "province_fa": "کهگیلویه و بویراحمد",
+      "province_en": "Kohgiluyeh and Boyer-Ahmad",
+      "cities": [
+        { "city_fa": "یاسوج", "city_en": "Yasuj", "code": "49" }
+      ]
+    },
+    {
+      "province_fa": "گلستان",
+      "province_en": "Golestan",
+      "cities": [
+        { "city_fa": "گرگان", "city_en": "Gorgan", "code": "59" },
+        { "city_fa": "گنبد کاووس", "city_en": "Gonbad-e Kavus", "code": "69" }
+      ]
+    },
+    {
+      "province_fa": "گیلان",
+      "province_en": "Gilan",
+      "cities": [
+        { "city_fa": "رشت", "city_en": "Rasht", "code": "46" },
+        { "city_fa": "بندرانزلی", "city_en": "Bandar-e Anzali", "code": "56" },
+        { "city_fa": "لاهیجان", "city_en": "Lahijan", "code": "76" }
+      ]
+    },
+    {
+      "province_fa": "لرستان",
+      "province_en": "Lorestan",
+      "cities": [
+        { "city_fa": "خرم‌آباد", "city_en": "Khorramabad", "code": "31" },
+        { "city_fa": "بروجرد", "city_en": "Borujerd", "code": "41" }
+      ]
+    },
+    {
+      "province_fa": "مازندران",
+      "province_en": "Mazandaran",
+      "cities": [
+        { "city_fa": "ساری", "city_en": "Sari", "code": "62" },
+        { "city_fa": "آمل", "city_en": "Amol", "code": "72" },
+        { "city_fa": "بابل", "city_en": "Babol", "code": "82" },
+        { "city_fa": "قائم‌شهر", "city_en": "Qaem Shahr", "code": "92" }
+      ]
+    },
+    {
+      "province_fa": "مرکزی",
+      "province_en": "Markazi",
+      "cities": [
+        { "city_fa": "اراک", "city_en": "Arak", "code": "47" },
+        { "city_fa": "ساوه", "city_en": "Saveh", "code": "57" }
+      ]
+    },
+    {
+      "province_fa": "هرمزگان",
+      "province_en": "Hormozgan",
+      "cities": [
+        { "city_fa": "بندرعباس", "city_en": "Bandar Abbas", "code": "84" },
+        { "city_fa": "میناب", "city_en": "Minab", "code": "94" }
+      ]
+    },
+    {
+      "province_fa": "همدان",
+      "province_en": "Hamedan",
+      "cities": [
+        { "city_fa": "همدان", "city_en": "Hamedan", "code": "18" },
+        { "city_fa": "ملایر", "city_en": "Malayer", "code": "28" }
+      ]
+    },
+    {
+      "province_fa": "یزد",
+      "province_en": "Yazd",
+      "cities": [
+        { "city_fa": "یزد", "city_en": "Yazd", "code": "54" },
+        { "city_fa": "اردکان", "city_en": "Ardakan", "code": "64" }
+      ]
+    }
+  ],
+  "international_vehicle_codes": [
+    { "country_fa": "ایران", "country_en": "Iran", "code": "IR" },
+    { "country_fa": "آلمان", "country_en": "Germany", "code": "D" },
+    { "country_fa": "ایتالیا", "country_en": "Italy", "code": "I" },
+    { "country_fa": "فرانسه", "country_en": "France", "code": "F" },
+    { "country_fa": "اسپانیا", "country_en": "Spain", "code": "E" },
+    { "country_fa": "بریتانیا", "country_en": "United Kingdom", "code": "GB" },
+    { "country_fa": "ایالات متحده آمریکا", "country_en": "United States", "code": "USA" },
+    { "country_fa": "کانادا", "country_en": "Canada", "code": "CDN" },
+    { "country_fa": "استرالیا", "country_en": "Australia", "code": "AUS" },
+    { "country_fa": "اتریش", "country_en": "Austria", "code": "A" },
+    { "country_fa": "هلند", "country_en": "Netherlands", "code": "NL" },
+    { "country_fa": "بلژیک", "country_en": "Belgium", "code": "B" },
+    { "country_fa": "سوئیس", "country_en": "Switzerland", "code": "CH" },
+    { "country_fa": "سوئد", "country_en": "Sweden", "code": "S" },
+    { "country_fa": "نروژ", "country_en": "Norway", "code": "N" },
+    { "country_fa": "دانمارک", "country_en": "Denmark", "code": "DK" },
+    { "country_fa": "لهستان", "country_en": "Poland", "code": "PL" },
+    { "country_fa": "پرتغال", "country_en": "Portugal", "code": "P" },
+    { "country_fa": "یونان", "country_en": "Greece", "code": "GR" },
+    { "country_fa": "روسیه", "country_en": "Russia", "code": "RUS" },
+    { "country_fa": "چین", "country_en": "China", "code": "RC" },
+    { "country_fa": "ژاپن", "country_en": "Japan", "code": "J" },
+    { "country_fa": "کره جنوبی", "country_en": "South Korea", "code": "ROK" },
+    { "country_fa": "هند", "country_en": "India", "code": "IND" },
+    { "country_fa": "برزیل", "country_en": "Brazil", "code": "BR" },
+    { "country_fa": "آرژانتین", "country_en": "Argentina", "code": "RA" },
+    { "country_fa": "مصر", "country_en": "Egypt", "code": "ET" },
+    { "country_fa": "آفریقای جنوبی", "country_en": "South Africa", "code": "ZA" },
+    { "country_fa": "ترکیه", "country_en": "Turkey", "code": "TR" },
+    { "country_fa": "عراق", "country_en": "Iraq", "code": "IRQ" },
+    { "country_fa": "افغانستان", "country_en": "Afghanistan", "code": "AFG" },
+    { "country_fa": "پاکستان", "country_en": "Pakistan", "code": "PK" },
+    { "country_fa": "امارات متحده عربی", "country_en": "United Arab Emirates", "code": "UAE" },
+    { "country_fa": "عربستان سعودی", "country_en": "Saudi Arabia", "code": "KSA" }
+  ]
+}
